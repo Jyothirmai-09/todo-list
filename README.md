@@ -49,6 +49,13 @@ No installation required - simply open the `index.html` file in any modern web b
 
 4. **(Optional) Filter tasks**:
    - Use the filter buttons to show All, Completed, or Active tasks
+  
+  ---
+  
+## preview
+
+<img width="1915" height="884" alt="image" src="https://github.com/user-attachments/assets/b9c5a9ad-47ee-42f9-89c0-e24b3f6c248f" />
+
 
 ## Data Persistence
 
